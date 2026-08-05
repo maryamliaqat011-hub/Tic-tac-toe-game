@@ -9,11 +9,12 @@ body {
 }
 
 .container {
-  height: 70vh;
+  height: auto;
   display: flex;
 
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+  padding: 2rem;
 }
 
 .game {
